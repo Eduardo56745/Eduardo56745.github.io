@@ -111,7 +111,7 @@ Python, Pandas, NumPy
 
 ## 📎 Enlaces y Contacto
 
-- 📄 [Currículum (Google Drive)](https://drive.google.com/drive/folders/1FKGGAEB-_jwa2si6oZv3ZWevA6XHLXOK?hl=es)  
+- 📄 [Currículum (Google Drive)](https://drive.google.com/file/d/1By1Y01hmr3DnA2UzcXPWbjPoqvpEkfKn/view?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-ortega-30154629a/)  
 - 📧 lalox1697@gmail.com  
 
