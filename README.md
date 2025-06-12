@@ -22,9 +22,9 @@ He trabajado en proyectos reales como la detección de fraude con tarjetas de cr
 ## 📂 Proyectos Destacados
 
 ### 🔍 Detección de Fraude con Tarjetas de Crédito
-
-Construí un modelo de clasificación para detectar transacciones fraudulentas en un conjunto de datos altamente desbalanceado. Apliqué técnicas de submuestreo, validación cruzada, y lo desplegué en una app interactiva con Streamlit.
 ![](assets/img/fraud.png)
+Construí un modelo de clasificación para detectar transacciones fraudulentas en un conjunto de datos altamente desbalanceado. Apliqué técnicas de submuestreo, validación cruzada, y lo desplegué en una app interactiva con Streamlit.
+
 #### Qué hice
 - Limpié y preparé los datos.
 - Balanceé las clases para mejorar el aprendizaje.
@@ -49,7 +49,7 @@ Puedes probar el modelo en esta aplicación web:
 ---
 
 ### 🎬 Clasificador de Críticas de Películas (Film Junky AI)
-
+![](assets/img/class.png)
 Proyecto para Film Junky Union 🍿, donde construí un modelo que clasifica reseñas de películas como positivas o negativas usando técnicas de Procesamiento de Lenguaje Natural (NLP).
 
 #### Qué hice
@@ -76,7 +76,7 @@ Prueba la app en línea:
 ---
 
 ### 🛒 Análisis de Compras de Clientes (Instacart)
-
+![](assets/img/insta.png)
 Análisis de los datos de compras en Instacart, una plataforma popular de entrega de comestibles. Se identificaron patrones y tendencias importantes para decisiones comerciales y marketing.
 
 #### Objetivos
@@ -113,7 +113,7 @@ Python, Pandas, NumPy
 
 - 📄 [Currículum (Google Drive)](https://drive.google.com/file/d/1By1Y01hmr3DnA2UzcXPWbjPoqvpEkfKn/view?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-ortega-30154629a/)  
-- 📧 lalox1697@gmail.com  
+- 📧 lalox1697@gmail.com
 
 ---
 
