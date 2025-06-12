@@ -21,6 +21,8 @@ He trabajado en proyectos reales como la detección de fraude con tarjetas de cr
 
 ## 📂 Proyectos Destacados
 
+(assets/img/fraud.png)
+
 ### 🔍 Detección de Fraude con Tarjetas de Crédito
 Construí un modelo de clasificación para detectar transacciones fraudulentas en un conjunto de datos altamente desbalanceado. Apliqué técnicas de submuestreo, validación cruzada, y lo desplegué en una app interactiva con Streamlit.
 
