@@ -2,9 +2,9 @@
 
 ## 🚀 Sobre mí
 
-Soy estudiante de Ingeniería en Sistemas Computacionales en la Universidad Virtual del Estado de Guanajuato, y Data Scientist por TripleTen. Me especializo en análisis de datos, visualización, aprendizaje automático y despliegue de modelos en la nube.
-
-He trabajado en proyectos reales como la detección de fraude con tarjetas de crédito, análisis de comportamiento de clientes, clasificación de reseñas de películas con ML, y más. Me interesa construir soluciones útiles con datos, comunicar resultados de forma clara y seguir aprendiendo constantemente.
+Data Scientist con sólida base en análisis de datos, estadística y machine learning. He desarrollado proyectos prácticos con Python, Pandas, scikit-learn y Azure, generando insights y optimizando modelos predictivos. Me distingo
+por mi aprendizaje rápido, compromiso con resultados y enfoque en mejora continua. Busco un entorno desafiante
+para aportar valor a través de los datos y seguir creciendo profesionalmente, con disponibilidad para reubicarme.
 
 ---
 
@@ -40,7 +40,7 @@ Python, Pandas, Scikit-learn, LightGBM, Streamlit, Render.
 
 #### Prueba la app
 Puedes probar el modelo en esta aplicación web:  
-👉 [https://credit-card-fraud-ml.onrender.com](https://credit-card-fraud-ml.onrender.com)  
+👉 [creditfraud-a5gxdfbwa8ghafeh.canadacentral-01.azurewebsites.net](creditfraud-a5gxdfbwa8ghafeh.canadacentral-01.azurewebsites.net)  
 
 *Nota: La app puede tardar unos segundos en iniciar si estuvo inactiva.*
 
@@ -67,7 +67,7 @@ Python, Pandas, Scikit-learn, LightGBM, NLTK, SpaCy, Streamlit, Render.
 
 #### Prueba la app
 Prueba la app en línea:  
-👉 [https://ai-clasificador-de-criticas.onrender.com/](https://ai-clasificador-de-criticas.onrender.com/)
+👉 [clasificadordecriticas-gudzcnc5hxdueuh9.canadacentral-01.azurewebsites.net](clasificadordecriticas-gudzcnc5hxdueuh9.canadacentral-01.azurewebsites.net)
 
 *Nota: La app puede tardar unos segundos en cargar si estuvo inactiva.*
 
