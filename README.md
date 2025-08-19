@@ -21,7 +21,7 @@ desplegándolos en la nube para soluciones interactivas. Me especializo en model
 - Modelos: Regresión logística, Árboles de decisión, Random Forest, K-Means
 
 ### Visualización
-- Matplotlib, Seaborn, Plotly
+- Matplotlib, Seaborn, Plotly, Power BI
 
 ### Procesamiento de Lenguaje Natural (NLP)
 - SpaCy, NLTK, TF-IDF
@@ -94,20 +94,21 @@ Python, Pandas, Scikit-learn, NLTK, SpaCy, Streamlit, Render
 
 ---
 
-### 🛒 Análisis de Compras de Clientes (Instacart)
-![](assets/img/insta.png)
-Análisis de datos de compras para encontrar patrones y comportamiento del usuario.
+### 🚗 Dashboard de Autos Usados con Power BI
+![](assets/img/car_dashboard.png)
+Dashboard interactivo en **Power BI** con más de **350,000 registros de autos usados**, permitiendo analizar precios, marcas, tipos de vehículos y tendencias.
 
-**Objetivos**  
-- Promedio de artículos por pedido  
-- Frecuencia de reordenamientos  
-- Porcentaje de productos repetidos  
-- Comportamientos de compra
+**Visualizaciones incluidas**  
+- Precio promedio por marca  
+- Distribución de tipos de vehículo  
+- Relación entre año de registro y precio  
+- Kilometraje promedio por tipo de combustible  
+- Mapa de anuncios por código postal  
 
 **Tecnologías**  
-Python, Pandas, NumPy
+Power BI, Power Query, DAX, CSV
 
-🔗 [Repositorio en GitHub](https://github.com/Eduardo56745/Instacart-Data-Analysis)
+🔗 [Repositorio en GitHub](https://github.com/Eduardo56745/power_bi_car_data)
 
 ---
 
