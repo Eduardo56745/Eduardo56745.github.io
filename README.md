@@ -1,140 +1,91 @@
-# 👨‍💻 Eduardo Ortega — Data Scientist
-Transformo datos en soluciones inteligentes con Python y Machine Learning.
+# Eduardo Ortega Torres
+### Data Scientist · Python · Machine Learning · Cloud
+
+📍 Guanajuato, México &nbsp;|&nbsp; 📧 lalox1697@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/eduardo-ortega-30154629a/) &nbsp;|&nbsp; [GitHub](https://github.com/Eduardo56745)
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-Soy un Data Scientist apasionado por convertir datos en decisiones estratégicas.  
-He construido modelos de clasificación, análisis de clientes y chatbots con Python, SQL y machine learning,  
-desplegándolos en la nube para soluciones interactivas. Me especializo en modelos eficientes, visualizaciones claras y apps funcionales.
+Estudiante de Ingeniería en Sistemas Computacionales con especialización en Ciencia de Datos. Construyo modelos de Machine Learning y los llevo a producción: desde la limpieza de datos hasta el despliegue en la nube. Me interesa resolver problemas reales con datos, no solo entrenar modelos.
 
 ---
 
-## 🧠 Habilidades Técnicas
+## Stack Técnico
 
-### Lenguajes
-- Python (avanzado), SQL (intermedio), Bash (intermedio)
-
-### Machine Learning
-- Scikit-learn, XGBoost, LightGBM, CatBoost  
-- Modelos: Regresión logística, Árboles de decisión, Random Forest, K-Means
-
-### Visualización
-- Matplotlib, Seaborn, Plotly, Power BI
-
-### Procesamiento de Lenguaje Natural (NLP)
-- SpaCy, NLTK, TF-IDF
-
-### Despliegue y Nube
-- FastAPI, Streamlit, Docker, AWS Lambda, Render, Azure
-
-### Bases de Datos
-- PostgreSQL, MySQL
-
-### Herramientas
-- Git, Jupyter, Google Colab, VS Code, Anaconda
+| Área | Herramientas |
+|---|---|
+| **Lenguajes** | Python · SQL · Bash |
+| **Machine Learning** | Scikit-learn · LightGBM · XGBoost · CatBoost |
+| **NLP** | SpaCy · NLTK · TF-IDF |
+| **Visualización** | Matplotlib · Seaborn · Plotly · Power BI |
+| **Despliegue & Cloud** | FastAPI · Streamlit · Docker · Azure · GCP · Render |
+| **Bases de datos** | PostgreSQL · MySQL |
+| **Herramientas** | Git · Jupyter · VS Code · Anaconda |
 
 ---
 
-## 📂 Proyectos Destacados
+## Proyectos
 
-### ⚙️ Data Pipeline | ETL
-![](assets/img/pipe.png)
-Pipeline para cargar, transformar y dispersar un dataset de compras usando PostgreSQL, Python y Docker.
+### Detección de Fraude con Tarjetas de Crédito
+Modelo de clasificación para identificar transacciones fraudulentas en datos fuertemente desbalanceados.
 
-**Qué hice**  
-- Levanté una base de datos con Docker/PostgreSQL  
-- Limpié y cargué datos con `load_data.py`  
-- Extraje datos a Parquet con `extract_data.py`  
-- Transformé datos para crear tablas limpias (`transform_data.py`)  
-- Creé y cargué tablas finales (`disperse_data.py`)  
-- Implementé una app en Scala para identificar números del 1 al 100
+| Métrica | Valor |
+|---|---|
+| F1-score | 0.83 |
+| ROC AUC | 0.99 |
 
-**Tecnologías**  
-Python, Pandas, PostgreSQL, Docker, Scala
+Tecnologías: Python · Scikit-learn · LightGBM · Streamlit · Azure
 
-🔗 [Repositorio en GitHub](https://github.com/Eduardo56745/Data_Pipeline_ETL)
+[Ver app](https://creditfraud-a5gxdfbwa8ghafeh.canadacentral-01.azurewebsites.net) &nbsp;·&nbsp; [Repositorio](https://github.com/Eduardo56745/credit_card_fraud_ML)
 
 ---
 
-### 🔍 Detección de Fraude con Tarjetas de Crédito
-![](assets/img/fraud.png)
-Modelo de clasificación para identificar transacciones fraudulentas en datos desbalanceados, desplegado con Streamlit.
+### Film Junky AI — Clasificador de Reseñas
+Clasificador de críticas de películas (positiva/negativa) usando NLP, desplegado como app web interactiva.
 
-**Resultados clave**  
-| Métrica     | Valor |
-|-------------|-------|
-| F1-score    | 0.83  |
-| ROC AUC     | 0.99  |
+| Métrica | Valor |
+|---|---|
+| F1-score | 0.88 |
+| ROC AUC | 0.95 |
 
-**Tecnologías**  
-Python, Pandas, Scikit-learn, LightGBM, Streamlit, Render
+Tecnologías: Python · NLTK · SpaCy · Scikit-learn · Streamlit · Azure
 
-🔗 [Prueba la app](https://creditfraud-a5gxdfbwa8ghafeh.canadacentral-01.azurewebsites.net)  
-🔗 [Repositorio en GitHub](https://github.com/Eduardo56745/credit_card_fraud_ML)
+[Ver app](https://clasificadordecriticas-gudzcnc5hxdueuh9.canadacentral-01.azurewebsites.net) &nbsp;·&nbsp; [Repositorio](https://github.com/Eduardo56745/Film_Junky_AI_Clasificador_de_Criticas)
 
 ---
 
-### 🎬 Clasificador de Críticas de Películas (Film Junky AI)
-![](assets/img/class.png)
-Clasificador de reseñas de películas (positivas o negativas) usando NLP, desplegado como app web.
+### ChatPDF AI — Asistente con NLP
+Backend en Python para procesamiento de documentos PDF con búsqueda semántica y conexión vía API REST.
 
-**Resultados clave**  
-| Métrica     | Valor |
-|-------------|-------|
-| F1-score    | 0.88  |
-| ROC AUC     | 0.95  |
+Tecnologías: Python · NLP · FastAPI · Cloud
 
-**Tecnologías**  
-Python, Pandas, Scikit-learn, NLTK, SpaCy, Streamlit, Render
-
-🔗 [Prueba la app](https://clasificadordecriticas-gudzcnc5hxdueuh9.canadacentral-01.azurewebsites.net)  
-🔗 [Repositorio en GitHub](https://github.com/Eduardo56745/Film_Junky_AI_Clasificador_de_Criticas)
+[Repositorio](https://github.com/Eduardo56745/chatbot_ds)
 
 ---
 
-### 🚗 Dashboard de Autos Usados con Power BI
-![](assets/img/car_dashboard.png)
-Dashboard interactivo en **Power BI** con más de **350,000 registros de autos usados**, permitiendo analizar precios, marcas, tipos de vehículos y tendencias.
+### Pipeline ETL con Docker
+Arquitectura de pipeline completo: carga, transformación y dispersión de datos usando PostgreSQL y Docker.
 
-**Visualizaciones incluidas**  
-- Precio promedio por marca  
-- Distribución de tipos de vehículo  
-- Relación entre año de registro y precio  
-- Kilometraje promedio por tipo de combustible  
-- Mapa de anuncios por código postal  
+Tecnologías: Python · Pandas · PostgreSQL · Docker
 
-**Tecnologías**  
-Power BI, Power Query, DAX, CSV
-
-🔗 [Repositorio en GitHub](https://github.com/Eduardo56745/power_bi_car_data)
+[Repositorio](https://github.com/Eduardo56745/Data_Pipeline_ETL)
 
 ---
 
-## 🌟 Lo que me diferencia
+### Dashboard de Autos Usados — Power BI
+Dashboard interactivo con más de 350,000 registros. Análisis de precios, marcas, tipos de vehículo y tendencias de mercado.
 
-- Experiencia en **despliegue de modelos** en la nube (Azure, Render)
-- Proyectos completos desde recolección hasta visualización y despliegue
-- Capacidad para explicar modelos técnicos a públicos no técnicos
-- Enfoque autodidacta y aprendizaje continuo
+Tecnologías: Power BI · Power Query · DAX
 
----
-
-## 📚 Educación
-
-- 🎓 **Ingeniería en Sistemas Computacionales** — Universidad Virtual del Estado de Guanajuato *(en curso)*  
-- 📊 **Certificación: Data Scientist** — TripleTen
+[Repositorio](https://github.com/Eduardo56745/power_bi_car_data)
 
 ---
 
-## 📎 Contacto
+## Formación
 
-📧 lalox1697@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/eduardo-ortega-30154629a/)  
-📂 [CV en Google Drive](https://drive.google.com/file/d/1By1Y01hmr3DnA2UzcXPWbjPoqvpEkfKn/view?usp=sharing)  
-🌐 [GitHub](https://github.com/Eduardo56745)
+**Ingeniería en Sistemas Computacionales** — Universidad Virtual del Estado de Guanajuato *(en curso)*
 
----
+**Data Scientist** — TripleTen *(2024 – 2025)*
 
-**Gracias por visitar mi perfil. ¡Estoy listo para aportar valor como Data Scientist! 🚀**
+**Google Cloud Computing Foundations** — Google Cloud *(2023)*
