@@ -28,6 +28,7 @@ Estudiante de Ingeniería en Sistemas Computacionales con especialización en Ci
 ## Proyectos
 
 ### Detección de Fraude con Tarjetas de Crédito
+![](assets/img/fraud.png)
 Modelo de clasificación para identificar transacciones fraudulentas en datos fuertemente desbalanceados.
 
 | Métrica | Valor |
@@ -42,6 +43,7 @@ Tecnologías: Python · Scikit-learn · LightGBM · Streamlit · Azure
 ---
 
 ### Film Junky AI — Clasificador de Reseñas
+![](assets/img/class.png)
 Clasificador de críticas de películas (positiva/negativa) usando NLP, desplegado como app web interactiva.
 
 | Métrica | Valor |
@@ -56,6 +58,7 @@ Tecnologías: Python · NLTK · SpaCy · Scikit-learn · Streamlit · Azure
 ---
 
 ### ChatPDF AI — Asistente con NLP
+![](assets/img/pipe.png)
 Backend en Python para procesamiento de documentos PDF con búsqueda semántica y conexión vía API REST.
 
 Tecnologías: Python · NLP · FastAPI · Cloud
@@ -65,6 +68,7 @@ Tecnologías: Python · NLP · FastAPI · Cloud
 ---
 
 ### Pipeline ETL con Docker
+![](assets/img/pipe.png)
 Arquitectura de pipeline completo: carga, transformación y dispersión de datos usando PostgreSQL y Docker.
 
 Tecnologías: Python · Pandas · PostgreSQL · Docker
@@ -74,6 +78,7 @@ Tecnologías: Python · Pandas · PostgreSQL · Docker
 ---
 
 ### Dashboard de Autos Usados — Power BI
+![](assets/img/car_dashboard.png)
 Dashboard interactivo con más de 350,000 registros. Análisis de precios, marcas, tipos de vehículo y tendencias de mercado.
 
 Tecnologías: Power BI · Power Query · DAX
